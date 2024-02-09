@@ -1,0 +1,5 @@
+"""
+wget https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt must be used to get the random words
+pip install tabulate
+
+"""
